@@ -28,6 +28,7 @@ I am currently developing a self-hosted homelab designed to operate as a:
 ### Web Technologies
 - HTML
 - CSS
+- React
 
 ---
 
