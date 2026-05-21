@@ -34,11 +34,14 @@ I am currently developing a self-hosted homelab designed to operate as a:
 
 ## GitHub Stats
 
-<div align="center">
-![](https://github-readme-stats.shion.dev/api?username=lynx7843&theme=dark&hide_border=false&include_all_commits=false&count_private=false)
-![](https://streak-stats.demolab.com/?user=lynx7843&theme=dark&hide_border=false)
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=lynx7843&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-</div>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=lynx7843&theme=dark&hide_border=true&include_all_commits=false&count_private=false&show_icons=true" />
+  &nbsp;
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lynx7843&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact" />
+</p>
+<p align="center">
+  <img src="https://nirzak-streak-stats.vercel.app/?user=lynx7843&theme=dark&hide_border=true" />
+</p>
 
 <br/>
 
@@ -54,7 +57,7 @@ I am currently developing a self-hosted homelab designed to operate as a:
 
 ## One of My Best
 
-### UniRide — Smart Travel Companion for University Students
+**UniRide — Smart Travel Companion for University Students**
 
 > UniRide is a cross-platform travel management system designed specifically for university students. It combines a Flutter mobile app, a React web application, and a hardware-based GPS tracking system to make campus transportation smarter, safer, and more reliable.
 
