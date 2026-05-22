@@ -34,14 +34,9 @@ I am currently developing a self-hosted homelab designed to operate as a:
 
 ## GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=lynx7843&theme=dark&hide_border=true&include_all_commits=false&count_private=false&show_icons=true" />
-  &nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lynx7843&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact" />
-</p>
-<p align="center">
-  <img src="https://nirzak-streak-stats.vercel.app/?user=lynx7843&theme=dark&hide_border=true" />
-</p>
+![](https://github-readme-stats.vercel.app/api?username=lynx7843&theme=dark&hide_border=false&include_all_commits=false&count_private=false)&nbsp;![](https://github-readme-stats.vercel.app/api/top-langs/?username=lynx7843&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+![](https://nirzak-streak-stats.vercel.app/?user=lynx7843&theme=dark&hide_border=false)
 
 <br/>
 
