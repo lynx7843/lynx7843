@@ -34,9 +34,9 @@ I am currently developing a self-hosted homelab designed to operate as a:
 
 ## GitHub Stats
 
-![](https://github-readme-stats.vercel.app/api?username=lynx7843&theme=dark&hide_border=false&include_all_commits=false&count_private=false)&nbsp;![](https://github-readme-stats.vercel.app/api/top-langs/?username=lynx7843&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+![](https://github-readme-stats.shion.dev/api?username=lynx7843&theme=dark&hide_border=false&include_all_commits=false&count_private=false)&nbsp;![](https://github-readme-stats.shion.dev/api/top-langs/?username=lynx7843&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-![](https://nirzak-streak-stats.vercel.app/?user=lynx7843&theme=dark&hide_border=false)
+![](https://streak-stats.demolab.com/?user=lynx7843&theme=dark&hide_border=false)
 
 <br/>
 
