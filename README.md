@@ -56,5 +56,5 @@ I am currently developing a self-hosted homelab designed to operate as a:
 
 > UniRide is a cross-platform travel management system designed specifically for university students. It combines a Flutter mobile app, a React web application, and a hardware-based GPS tracking system to make campus transportation smarter, safer, and more reliable.
 
-[![UniRide](https://github-readme-stats.vercel.app/api/pin/?username=lynx7843&repo=UniRide&theme=dark&hide_border=true)](https://github.com/lynx7843/UniRide)
+[![UniRide](img/uniride.png)](https://github.com/lynx7843/UniRide)
 
