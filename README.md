@@ -9,8 +9,11 @@ I am currently developing a self-hosted homelab designed to operate as a:
 - Smart home automation hub  
 - Local AI processing environment  
 
-![GitHub followers](https://img.shields.io/github/followers/lynx7843?style=for-the-badge&theme=dark)
-![GitHub stars](https://img.shields.io/github/stars/lynx7843?style=for-the-badge)
+<div align="center">
+    <a href="https://github-profile-trophy-kannan.vercel.app">
+        <img src="https://github-profile-trophy.vercel.app/?username=lynx7843&theme=dark_lover&row=1&column=7&margin-h=15&margin-w=5&no-bg=true" alt="TROPHY" width="84%" />
+    </a>
+</div>
 
 <br/>
 
