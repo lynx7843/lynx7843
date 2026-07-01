@@ -10,8 +10,8 @@ I am currently developing a self-hosted homelab designed to operate as a:
 - Local AI processing environment  
 
 <div align="center">
-    <a href="https://github-profile-trophy-fork-two.vercel.app/?username=lynx7843">
-        <img src="https://github-profile-trophy-fork-two.vercel.app/?username=lynx7843&theme=dark_lover&row=1&column=7&margin-h=15&margin-w=5&no-bg=true" alt="TROPHY" width="84%" />
+    <a href="https://trophygithubreadmelang.cybee.dpdns.org/?username=lynx7843">
+        <img src="https://trophygithubreadmelang.cybee.dpdns.org/?username=lynx7843&theme=dark_lover&row=1&column=7&margin-h=15&margin-w=5&no-bg=true" alt="TROPHY" width="84%" />
     </a>
 </div>
 
