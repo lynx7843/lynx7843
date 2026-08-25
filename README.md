@@ -105,7 +105,7 @@ I am currently developing a self-hosted homelab designed to operate as a:
   <img src="https://github-readme-stats.shion.dev/api?username=lynx7843&include_all_commits=false&count_private=false&hide_border=true&bg_color=0D1117&title_color=00A4DC&icon_color=00A4DC&text_color=9FD8EC" alt="stats" height="170" />
   <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=lynx7843&layout=compact&hide_border=true&bg_color=0D1117&title_color=00A4DC&text_color=9FD8EC" alt="top languages" height="170" />
   <br/>
-  <img src="https://streak-stats.demolab.com/?user=lynx7843&hide_border=true&background=0D1117&ring=00A4DC&fire=00A4DC&currStreakLabel=00A4DC&sideLabels=00A4DC&currStreakNum=9FD8EC&sideNums=9FD8EC&dates=9FD8EC&stroke=00A4DC" alt="streak" height="170" />
+  <img src="https://github-readme-streak-stats-1-m3sb.onrender.com/?user=lynx7843&hide_border=true&background=0D1117&ring=00A4DC&fire=00A4DC&currStreakLabel=00A4DC&sideLabels=00A4DC&currStreakNum=9FD8EC&sideNums=9FD8EC&dates=9FD8EC&stroke=00A4DC" alt="streak" height="170" />
   <br/>
   <img src="https://github-readme-stats.shion.dev/api/pin/?username=lynx7843&repo=UniRide&hide_border=true&bg_color=0D1117&title_color=00A4DC&icon_color=00A4DC&text_color=9FD8EC" alt="UniRide" height="170" />
 </div>
